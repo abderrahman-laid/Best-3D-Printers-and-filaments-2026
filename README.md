@@ -2,7 +2,7 @@
 Here we gathered the top 3d printers and filaments in the market (list updates periodically)
 
 
-| Component | Description | Where To Buy |
+| # | Description | Where To Get |
 | :--- | :--- | :--- |
 | **1** | 10KG/22LBS Multicolor PLA filament 1KG/Roll 1.75mm For 3D Printer Material for 3D Printing 3D Printer Filament Free Shipping | **[Buy Here](https://s.click.aliexpress.com/e/_c33a9Ivr)** |
 | **2** | KINGROON 10KG PLA Filament PETG 3d Filament 1.75mm For 3D Printer Filament Bundle Mixed colors FDM Printing Material Fast Ship | **[Buy Here](https://s.click.aliexpress.com/e/_c4CDzhFR)** |
