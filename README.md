@@ -1,7 +1,7 @@
 # Best-3D-Printers-and-filaments-2026
 Here we gathered the top 3d printers and filaments in the market (list updates periodically)
 
-## 3D Printers:
+## 🖨️ 3D Printers:
 | # | Description | Where To Get |
 | :--- | :--- | :--- |
 | **1** | FLASHFORGE AD5X 3d Printer Multi-Color Printing Intelligent Filament System One-Click Auto Leveling Group Control | **[Buy Here](https://s.click.aliexpress.com/e/_c3P8NCuz)** |
@@ -17,7 +17,7 @@ Here we gathered the top 3d printers and filaments in the market (list updates p
 | **11** | Creality CFS/Hi/Hi Combo 3D Printer Auto Bed Leveling Full Metal Extruder with 500 mm/s 12000 mm/s² max acceleration Fast Print | **[Buy Here](https://s.click.aliexpress.com/e/_c2yZbFnR)** |
 
 
-## Filaments:
+## 💿 Filaments:
 
 | # | Description | Where To Get |
 | :--- | :--- | :--- |
