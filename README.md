@@ -2,7 +2,8 @@
 Here we gathered the top 3d printers and filaments in the market (list updates periodically)
 
 ## 3D Printers:
-
+| # | Description | Where To Get |
+| :--- | :--- | :--- |
 | **1** | FLASHFORGE AD5X 3d Printer Multi-Color Printing Intelligent Filament System One-Click Auto Leveling Group Control | **[Buy Here](https://s.click.aliexpress.com/e/_c3P8NCuz)** |
 | **2** | Flashforge Adventurer 5M 3d Printer High Speed Full-auto Leveling Direct Extruder Flexible PEI Plate Power Loss Recovery | **[Buy Here](https://s.click.aliexpress.com/e/_c3KfDTrP)** |
 | **3** | ANYCUBIC Kobra 3 Combo AE Version Multi-Color FDM 3D Printer Max 600mm/s Printing Speed Build Size 250x250x260mm | **[Buy Here](https://s.click.aliexpress.com/e/_c4lNU72l)** |
